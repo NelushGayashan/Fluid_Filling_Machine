@@ -31,7 +31,7 @@ Fluid_Filling_Machine/
 1. **Clone the Repository**
 
    ````
-   git clone https://github.com/Nelush/Fluid_Filling_Machine.git
+   git clone https://github.com/NelushGayashan/Fluid_Filling_Machine.git
     ````
 2. **Open the Project**
 
